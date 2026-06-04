@@ -93,13 +93,13 @@ A SQL-based analytics solution built to clean, model, and analyze food delivery 
 
 ## 📂 Other Analytics & BI Projects
 
-* Meta Ad Performance Dashboard
-* Call Center Performance Dashboard
-* Car Sales Dashboard
-* Blinkit Analysis
-* Employee Management System
-* Healthcare Dashboard *(In Progress)*
-* Data Warehouse Project *(In Progress)*
+- **Meta Ad Performance Dashboard** — Marketing analytics dashboard for campaign performance, engagement, and ROI monitoring.
+- **Call Center Performance Dashboard** — Operational analytics solution for agent performance, call volume, and customer service metrics.
+- **Car Sales Dashboard** — Sales performance dashboard analyzing revenue, vehicle demand, and regional sales trends.
+- **Blinkit Analysis** — Retail analytics project exploring product performance, sales patterns, and outlet characteristics.
+- **Employee Management System** — Excel-based business management solution for employee record tracking and workforce administration.
+- **Healthcare Dashboard** *(In Progress)* — Healthcare analytics dashboard focused on patient, operational, and performance metrics.
+- **Data Warehouse Project** *(In Progress)* — Multi-layer data warehouse solution featuring ETL pipelines, dimensional modeling, and analytics-ready data structures.
 
 ## 🛠️ Technical Skillset
 
