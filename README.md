@@ -31,11 +31,11 @@ When I'm not analyzing data, I enjoy creating content, mentoring others, and rea
 A loan portfolio analytics dashboard built in Excel to monitor lending performance, repayment trends, borrower risk, and portfolio quality. The project combines data cleaning, KPI development, and interactive reporting to support informed lending decisions.
 
 <p align="center">
-  <img src="images/bank-loan-dashboard.png" alt="Bank Loan Dashboard" width="900">
+  <img src="images/Summary.jpg" alt="Bank Loan Dashboard" width="900">
 </p>
 
 <p align="center">
-  <a href="YOUR_REPOSITORY_LINK">
+  <a href="https://github.com/GodwinDeborah/Bank-Loan-Performance-Dashboard">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
@@ -44,14 +44,15 @@ A loan portfolio analytics dashboard built in Excel to monitor lending performan
 
 ## 📈 Power BI | Flashpoint Logistics Dashboard
 
-A logistics performance dashboard built in Power BI to monitor operational KPIs, fleet activity, delivery efficiency, and service performance. The dashboard enables stakeholders to identify trends and optimize logistics operations.
+An end-to-end Business Intelligence solution built in Power BI to analyze last-mile delivery operations. The dashboard integrates orders, hubs, drivers, and fleet data to monitor delivery performance, identify operational bottlenecks, and support data-driven logistics decision-making through interactive KPI tracking and performance analysis.
+s.
 
 <p align="center">
-  <img src="images/flashpoint-dashboard.png" alt="Flashpoint Logistics Dashboard" width="900">
+  <img src="images/Flashpoint_Summary_Dashboard.jpg" alt="Flashpoint Logistics Dashboard" width="900">
 </p>
 
 <p align="center">
-  <a href="YOUR_REPOSITORY_LINK">
+  <a href="https://github.com/GodwinDeborah/FlashPoint-Logistics-Dashboard">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
