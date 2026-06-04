@@ -24,11 +24,81 @@ My background in IT and cloud support gives me a strong understanding of how dat
 
 When I'm not analyzing data, I enjoy creating content, mentoring others, and reading.
 
-## 🔭 What I'm Currently Working On 
+# 🌟 Featured Projects
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+## 📊 Excel | Bank Loan Performance Dashboard
+
+A loan portfolio analytics dashboard built in Excel to monitor lending performance, repayment trends, borrower risk, and portfolio quality. The project combines data cleaning, KPI development, and interactive reporting to support informed lending decisions.
+
+<p align="center">
+  <img src="images/bank-loan-dashboard.png" alt="Bank Loan Dashboard" width="900">
+</p>
+
+<p align="center">
+  <a href="YOUR_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
+</p>
+
+---
+
+## 📈 Power BI | Flashpoint Logistics Dashboard
+
+A logistics performance dashboard built in Power BI to monitor operational KPIs, fleet activity, delivery efficiency, and service performance. The dashboard enables stakeholders to identify trends and optimize logistics operations.
+
+<p align="center">
+  <img src="images/flashpoint-dashboard.png" alt="Flashpoint Logistics Dashboard" width="900">
+</p>
+
+<p align="center">
+  <a href="YOUR_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
+</p>
+
+---
+
+## 📉 Tableau | Human Resource Dashboard
+
+A workforce analytics dashboard developed in Tableau to explore employee demographics, hiring trends, workforce distribution, compensation patterns, and organizational performance metrics. The dashboard supports data-driven workforce planning and HR decision-making.
+
+<p align="center">
+  <img src="images/hr-dashboard.png" alt="Human Resource Dashboard" width="900">
+</p>
+
+<p align="center">
+  <a href="YOUR_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
+</p>
+
+---
+
+## 🗄️ SQL | Swiggy Performance Analysis
+
+A SQL-based business analysis project focused on evaluating order performance, customer behavior, restaurant activity, and revenue trends. The project demonstrates advanced querying techniques and business-oriented analytical problem-solving.
+
+<p align="center">
+  <img src="images/swiggy-analysis.png" alt="Swiggy Performance Analysis" width="900">
+</p>
+
+<p align="center">
+  <a href="YOUR_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
+</p>
+
+---
+
+## 📂 Additional Projects
+
+* Call Center Dashboard
+* Car Sales Dashboard
+* Blinkit Analysis
+* Employee Management System
+* Healthcare Dashboard *(In Progress)*
+* Data Warehouse Project *(In Progress)*
+
 
 
 ## 🛠️ Technical Skillset
