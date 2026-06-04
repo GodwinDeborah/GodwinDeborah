@@ -64,11 +64,11 @@ s.
 An interactive Tableau dashboard designed to analyze workforce composition, employee demographics, compensation trends, and organizational performance. The solution enables HR teams and business stakeholders to monitor workforce growth, explore employee distribution, and uncover insights that support data-driven workforce planning and decision-making.
 
 <p align="center">
-  <img src="images/hr-dashboard.png" alt="Human Resource Dashboard" width="900">
+  <img src="images/hr_Summary.jpg" alt="Human Resource Dashboard" width="900">
 </p>
 
 <p align="center">
-  <a href="YOUR_REPOSITORY_LINK">
+  <a href="https://github.com/GodwinDeborah/Human-Resources-Dashboard">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
@@ -78,6 +78,10 @@ An interactive Tableau dashboard designed to analyze workforce composition, empl
 ## 🗄️ SQL | Swiggy Performance Analysis
 
 A SQL-based analytics solution built to clean, model, and analyze food delivery data for business reporting and decision support. The project demonstrates data validation, ETL pipeline development, star schema design, and analytical querying to generate insights across revenue, customer demand, restaurant performance, and location-based trends.
+
+<p align="center">
+  <img src="images/Schema.jpg" alt="Human Resource Dashboard" width="900">
+</p>
 
 <p align="center">
   <a href="https://github.com/GodwinDeborah/Swiggy-Performance-Analysis">
