@@ -59,9 +59,9 @@ s.
 
 ---
 
-## 📉 Tableau | Human Resource Dashboard
+## 📉 Tableau | Human Resources Dashboard
 
-A workforce analytics dashboard developed in Tableau to explore employee demographics, hiring trends, workforce distribution, compensation patterns, and organizational performance metrics. The dashboard supports data-driven workforce planning and HR decision-making.
+An interactive Tableau dashboard designed to analyze workforce composition, employee demographics, compensation trends, and organizational performance. The solution enables HR teams and business stakeholders to monitor workforce growth, explore employee distribution, and uncover insights that support data-driven workforce planning and decision-making.
 
 <p align="center">
   <img src="images/hr-dashboard.png" alt="Human Resource Dashboard" width="900">
@@ -77,14 +77,10 @@ A workforce analytics dashboard developed in Tableau to explore employee demogra
 
 ## 🗄️ SQL | Swiggy Performance Analysis
 
-A SQL-based business analysis project focused on evaluating order performance, customer behavior, restaurant activity, and revenue trends. The project demonstrates advanced querying techniques and business-oriented analytical problem-solving.
+A SQL-based analytics solution built to clean, model, and analyze food delivery data for business reporting and decision support. The project demonstrates data validation, ETL pipeline development, star schema design, and analytical querying to generate insights across revenue, customer demand, restaurant performance, and location-based trends.
 
 <p align="center">
-  <img src="images/swiggy-analysis.png" alt="Swiggy Performance Analysis" width="900">
-</p>
-
-<p align="center">
-  <a href="YOUR_REPOSITORY_LINK">
+  <a href="https://github.com/GodwinDeborah/Swiggy-Performance-Analysis">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
