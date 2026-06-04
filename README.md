@@ -64,7 +64,7 @@ s.
 An interactive Tableau dashboard designed to analyze workforce composition, employee demographics, compensation trends, and organizational performance. The solution enables HR teams and business stakeholders to monitor workforce growth, explore employee distribution, and uncover insights that support data-driven workforce planning and decision-making.
 
 <p align="center">
-  <img src="images/hr_Summary.png" alt="Human Resource Dashboard" width="900">
+  <img src="images/Hr_Summary.jpg" alt="Human Resource Dashboard" width="900">
 </p>
 
 <p align="center">
@@ -91,30 +91,41 @@ A SQL-based analytics solution built to clean, model, and analyze food delivery 
 
 ---
 
-## 📂 Additional Projects
+## 📂 Other Analytics & BI Projects
 
-* Call Center Dashboard
+* Meta Ad Performance Dashboard
+* Call Center Performance Dashboard
 * Car Sales Dashboard
 * Blinkit Analysis
 * Employee Management System
 * Healthcare Dashboard *(In Progress)*
 * Data Warehouse Project *(In Progress)*
 
-
-
 ## 🛠️ Technical Skillset
-#### Data Analysis & Visualization
+
+### Data Analysis & Visualization
+
 <p>
-  <img src="https://img.shields.io/badge/SQL-Intermidiate-4479A1?style=flat&logo=sqlserver&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermidiate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
 </p>
 
-#### Business Intelligence & Analytics
+### Data Management & Modeling
+
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/ETL-4A90E2?style=flat">
+  <img src="https://img.shields.io/badge/Data_Modeling-7B68EE?style=flat">
+  <img src="https://img.shields.io/badge/Star_Schema-9370DB?style=flat">
+  <img src="https://img.shields.io/badge/Data_Cleaning-20B2AA?style=flat">
+</p>
+
+### Business Intelligence & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/KPI_Development-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/Dashboard_Design-FFB347?style=flat">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=flat">
 </p>
