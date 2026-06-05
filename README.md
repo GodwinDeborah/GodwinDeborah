@@ -68,7 +68,7 @@ An interactive Tableau dashboard designed to analyze workforce composition, empl
 </p>
 
 <p align="center">
-  <a href="[https://github.com/GodwinDeborah/Human-Resources-Dashboard](https://github.com/GodwinDeborah/Human-Resources-Dashboard-)">
+  <a href="https://github.com/GodwinDeborah/Human-Resources-Dashboard">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
