@@ -1,7 +1,7 @@
 ## Hi there, I'm Godwin Deborah 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Business+Insights;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+Dashboards+and+Business+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Business+Intelligence;From+Raw+Data+to+Better+Business+Decisions;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+Dashboards+and+Business+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,7 +45,6 @@ A loan portfolio analytics dashboard built in Excel to monitor lending performan
 ## 📈 Power BI | Flashpoint Logistics Dashboard
 
 An end-to-end Business Intelligence solution built in Power BI to analyze last-mile delivery operations. The dashboard integrates orders, hubs, drivers, and fleet data to monitor delivery performance, identify operational bottlenecks, and support data-driven logistics decision-making through interactive KPI tracking and performance analysis.
-s.
 
 <p align="center">
   <img src="images/Flashpoint_Summary_Dashboard.jpg" alt="Flashpoint Logistics Dashboard" width="900">
@@ -102,6 +101,7 @@ A SQL-based analytics solution built to clean, model, and analyze food delivery 
 | 👥 **Employee Management System** | Excel-based business solution for employee record management and workforce administration. |
 | 🏥 **Healthcare Dashboard** *(In Progress)* | Analytics dashboard focused on healthcare operations and performance monitoring. |
 | 🏗️ **Data Warehouse Project** *(In Progress)* | End-to-end data warehouse featuring ETL pipelines, dimensional modeling, and analytics-ready data layers. |
+
 ---
 
 ## 🛠️ Technical Skillset
@@ -130,5 +130,13 @@ A SQL-based analytics solution built to clean, model, and analyze food delivery 
   <img src="https://img.shields.io/badge/KPI_Development-96CEB4?style=flat">
   <img src="https://img.shields.io/badge/Dashboard_Design-FFB347?style=flat">
   <img src="https://img.shields.io/badge/Statistical_Analysis-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=flat">
+  <img src="https://img.shields.io/badge/Data_Storytelling-FF6B6B?style=flat">
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/godwin-deborah-163b10398/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
