@@ -68,7 +68,7 @@ An interactive Tableau dashboard designed to analyze workforce composition, empl
 </p>
 
 <p align="center">
-  <a href="https://github.com/GodwinDeborah/Human-Resources-Dashboard">
+  <a href="https://github.com/GodwinDeborah/Human-Resources-Dashboard-">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
@@ -84,7 +84,7 @@ A SQL-based analytics solution built to clean, model, and analyze food delivery 
 </p>
 
 <p align="center">
-  <a href="https://github.com/GodwinDeborah/Swiggy-Performance-Analysis">
+  <a href="https://github.com/GodwinDeborah/Swiggy-Performance-Analysis-">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
@@ -93,13 +93,16 @@ A SQL-based analytics solution built to clean, model, and analyze food delivery 
 
 ## 📂 Other Analytics & BI Projects
 
-- **Meta Ad Performance Dashboard** — Marketing analytics dashboard for campaign performance, engagement, and ROI monitoring.
-- **Call Center Performance Dashboard** — Operational analytics solution for agent performance, call volume, and customer service metrics.
-- **Car Sales Dashboard** — Sales performance dashboard analyzing revenue, vehicle demand, and regional sales trends.
-- **Blinkit Analysis** — Retail analytics project exploring product performance, sales patterns, and outlet characteristics.
-- **Employee Management System** — Excel-based business management solution for employee record tracking and workforce administration.
-- **Healthcare Dashboard** *(In Progress)* — Healthcare analytics dashboard focused on patient, operational, and performance metrics.
-- **Data Warehouse Project** *(In Progress)* — Multi-layer data warehouse solution featuring ETL pipelines, dimensional modeling, and analytics-ready data structures.
+| Project | Description |
+|----------|-------------|
+| 📢 **Meta Ad Performance Dashboard** | Marketing analytics dashboard for campaign performance, engagement, and ROI analysis. |
+| 📞 **Call Center Performance Dashboard** | Operational dashboard tracking call volume, service levels, and agent performance. |
+| 🚗 **Car Sales Dashboard** | Sales analytics solution for monitoring revenue, vehicle demand, and regional performance. |
+| 🛒 **Blinkit Analysis** | Retail analytics project exploring sales patterns, product performance, and outlet trends. |
+| 👥 **Employee Management System** | Excel-based business solution for employee record management and workforce administration. |
+| 🏥 **Healthcare Dashboard** *(In Progress)* | Analytics dashboard focused on healthcare operations and performance monitoring. |
+| 🏗️ **Data Warehouse Project** *(In Progress)* | End-to-end data warehouse featuring ETL pipelines, dimensional modeling, and analytics-ready data layers. |
+---
 
 ## 🛠️ Technical Skillset
 
