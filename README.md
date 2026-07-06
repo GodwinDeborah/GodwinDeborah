@@ -26,9 +26,9 @@ When I'm not analyzing data, I enjoy creating content, mentoring others, and rea
 
 # 🌟My Projects
 
-## 📊 Excel | Bank Loan Performance Dashboard
+## 📊 Marketplace Performance Inteligence Dashboard
 
-A loan portfolio analytics dashboard built in Excel to monitor lending performance, repayment trends, borrower risk, and portfolio quality. The project combines data cleaning, KPI development, and interactive reporting to support informed lending decisions.
+
 
 <p align="center">
   <img src="images/Summary.jpg" alt="Bank Loan Dashboard" width="900">
@@ -39,9 +39,6 @@ A loan portfolio analytics dashboard built in Excel to monitor lending performan
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
-
----
-
 
 ## 🛠️ Technical Skillset
 
