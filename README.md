@@ -35,10 +35,11 @@ An end-to-end Business Intelligence solution built with SQL Server and Power BI 
 </p>
 
 <p align="center">
-  <a href="https://github.com/GodwinDeborah/Marketplace-Performance-Inteligence-Dashboard">
+  <a href="https://github.com/GodwinDeborah/Marketplace-Performance-Intelligence-Dashboard">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
+
 
 ## 🛠️ Technical Skillset
 
