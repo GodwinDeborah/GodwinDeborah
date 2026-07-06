@@ -24,7 +24,7 @@ My background in IT and cloud support gives me a strong understanding of how dat
 
 When I'm not analyzing data, I enjoy creating content, mentoring others, and reading.
 
-# 🌟 Featured Projects
+# 🌟My Projects
 
 ## 📊 Excel | Bank Loan Performance Dashboard
 
@@ -42,67 +42,6 @@ A loan portfolio analytics dashboard built in Excel to monitor lending performan
 
 ---
 
-## 📈 Power BI | Flashpoint Logistics Dashboard
-
-An end-to-end Business Intelligence solution built in Power BI to analyze last-mile delivery operations. The dashboard integrates orders, hubs, drivers, and fleet data to monitor delivery performance, identify operational bottlenecks, and support data-driven logistics decision-making through interactive KPI tracking and performance analysis.
-
-<p align="center">
-  <img src="images/Flashpoint_Summary_Dashboard.jpg" alt="Flashpoint Logistics Dashboard" width="900">
-</p>
-
-<p align="center">
-  <a href="https://github.com/GodwinDeborah/FlashPoint-Logistics-Dashboard">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-  </a>
-</p>
-
----
-
-## 📉 Tableau | Human Resources Dashboard
-
-An interactive Tableau dashboard designed to analyze workforce composition, employee demographics, compensation trends, and organizational performance. The solution enables HR teams and business stakeholders to monitor workforce growth, explore employee distribution, and uncover insights that support data-driven workforce planning and decision-making.
-
-<p align="center">
-  <img src="images/Hr_Summary.jpg" alt="Human Resource Dashboard" width="900">
-</p>
-
-<p align="center">
-  <a href="https://github.com/GodwinDeborah/Human-Resources-Dashboard-">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-  </a>
-</p>
-
----
-
-## 🗄️ SQL | Swiggy Performance Analysis
-
-A SQL-based analytics solution built to clean, model, and analyze food delivery data for business reporting and decision support. The project demonstrates data validation, ETL pipeline development, star schema design, and analytical querying to generate insights across revenue, customer demand, restaurant performance, and location-based trends.
-
-<p align="center">
-  <img src="images/Schema.jpg" alt="Swiggy Performance Analysis" width="900">
-</p>
-
-<p align="center">
-  <a href="https://github.com/GodwinDeborah/Swiggy-Performance-Analysis-">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-  </a>
-</p>
-
----
-
-## 📂 Other Analytics & BI Projects
-
-| Project | Description |
-|----------|-------------|
-| 📢 **Meta Ad Performance Dashboard** | Marketing analytics dashboard for campaign performance, engagement, and ROI analysis. |
-| 📞 **Call Center Performance Dashboard** | Operational dashboard tracking call volume, service levels, and agent performance. |
-| 🚗 **Car Sales Dashboard** | Sales analytics solution for monitoring revenue, vehicle demand, and regional performance. |
-| 🛒 **Blinkit Analysis** | Retail analytics project exploring sales patterns, product performance, and outlet trends. |
-| 👥 **Employee Management System** | Excel-based business solution for employee record management and workforce administration. |
-| 🏥 **Healthcare Dashboard** *(In Progress)* | Analytics dashboard focused on healthcare operations and performance monitoring. |
-| 🏗️ **Data Warehouse Project** *(In Progress)* | End-to-end data warehouse featuring ETL pipelines, dimensional modeling, and analytics-ready data layers. |
-
----
 
 ## 🛠️ Technical Skillset
 
