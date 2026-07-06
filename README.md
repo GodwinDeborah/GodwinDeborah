@@ -31,7 +31,7 @@ When I'm not analyzing data, I enjoy creating content, mentoring others, and rea
 An end-to-end Business Intelligence solution built with SQL Server and Power BI to analyze 197K+ restaurant marketplace orders. The project features a staging-to-production ETL pipeline, star schema data model, DAX measures, and a five-page interactive dashboard delivering insights into marketplace performance, restaurant effectiveness, menu analytics, geographic trends, and marketplace health.
 
 <p align="center">
-  <img src="images/Executive.jpg" alt="Marketplace Performance Inteligence Dashboard" width="900">
+  <img src="Images/Executive.jpg" alt="Marketplace Performance Inteligence Dashboard" width="900">
 </p>
 
 <p align="center">
