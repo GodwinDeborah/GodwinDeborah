@@ -28,14 +28,14 @@ When I'm not analyzing data, I enjoy creating content, mentoring others, and rea
 
 ## 📊 Marketplace Performance Inteligence Dashboard
 
-
+An end-to-end Business Intelligence solution built with SQL Server and Power BI to analyze 197K+ restaurant marketplace orders. The project features a staging-to-production ETL pipeline, star schema data model, DAX measures, and a five-page interactive dashboard delivering insights into marketplace performance, restaurant effectiveness, menu analytics, geographic trends, and marketplace health.
 
 <p align="center">
-  <img src="images/Summary.jpg" alt="Bank Loan Dashboard" width="900">
+  <img src="images/Executive.jpg" alt="Marketplace Performance Inteligence Dashboard" width="900">
 </p>
 
 <p align="center">
-  <a href="https://github.com/GodwinDeborah/Bank-Loan-Performance-Dashboard">
+  <a href="https://github.com/GodwinDeborah/Marketplace-Performance-Inteligence-Dashboard">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </p>
